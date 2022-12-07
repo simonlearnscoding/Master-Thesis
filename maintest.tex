@@ -1,0 +1,73 @@
+\documentclass[12pt,twoside]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[RO,LE]{Thesis Title}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[CO,CE]{Chapter \thechapter}
+%comment out or delete all fancy lines 7-13 to get simpler layout
+
+\usepackage[style=ACM-Reference-Format, natbib,maxcitenames=2]{biblatex}
+\addbibresource{references.bib}
+
+\usepackage[nomain, acronym]{glossaries}
+\makeglossaries
+this only creates a glossary for defined acronyms. for a full glossary check out https://de.overleaf.com/learn/latex/Glossaries
+\newacronym{gcd}{GCD}{Greatest Common Divisor}
+\newacronym{pd}{PD}{Participatory Design}
+\newacronym{lcm}{LCM}{Least Common Multiple}
+
+\usepackage{setspace}
+\onehalfspacing
+%%change the line spacing here - google for more commands
+
+\usepackage{comment}
+%allows commenting
+
+% here starts the document
+\begin{document}
+    \input{titlepage}
+
+% front parts
+    \clearpage
+    \addcontentsline{toc}{chapter}{Declaration on oath}
+    \chapter*{Declaration on oath}
+    \input{Front and Back Chapters/Oath}
+
+    \clearpage
+    \addcontentsline{toc}{chapter}{Zusammenfassung}
+    \chapter*{Zusammenfassung}
+    \input{Front and Back Chapters/Zusammenfassung}
+
+    \clearpage
+    \addcontentsline{toc}{chapter}{Abstract}
+    \chapter*{Abstract}
+    \input{Front and Back Chapters/Abstract}
+
+    \tableofcontents
+
+    \clearpage
+    \addcontentsline{toc}{chapter}{List of Figures}
+    \listoffigures
+
+    \clearpage
+    \addcontentsline{toc}{chapter}{List of Tables}
+    \listoftables
+
+    \clearpage
+    \addcontentsline{toc}{chapter}{List of Abbreviations}
+    \printglossary[type=\acronymtype, title=List of Abbreviations]
+
+% here starts the main part
+    \chapter{Introduction}
+    \input{Chapters/1 Introduction/main.tex}
+    
+    \chapter{Theoretical Grounding}
+    \input{Chapters/2 Theoretical Grounding/main.tex}
+\end{document}
+
