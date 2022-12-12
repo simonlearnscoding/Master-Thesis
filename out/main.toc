@@ -1,0 +1,8 @@
+\contentsline {chapter}{Declaration on oath}{2}{}%
+\contentsline {chapter}{Zusammenfassung}{3}{}%
+\contentsline {chapter}{Abstract}{4}{}%
+\contentsline {chapter}{List of Figures}{6}{}%
+\contentsline {chapter}{List of Tables}{7}{}%
+\contentsline {chapter}{List of Abbreviations}{8}{}%
+\contentsline {chapter}{Bibliography}{9}{}%
+\contentsline {chapter}{Appendix A: Example}{10}{}%

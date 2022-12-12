@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  24 NOV 2022 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  11 DEC 2022 19:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,6 +851,9 @@ Overfull \hbox (61.89096pt too wide) in paragraph at lines 92--99
  circumstances."[[]] 
  []
 
+
+LaTeX Warning: Citation 'Piers2007' on page 10 undefined on input line 102.
+
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -873,127 +876,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [11]
 Chapter 2.
 (./Chapters/2 Theoretical Grounding/main.tex
-(./Chapters/2 Theoretical Grounding/Motivation.tex
-./Chapters/2 Theoretical Grounding/Motivation.tex:2: Undefined control sequence
-.
-l.2 \todo
-          definition of motivation
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (163.50948pt too wide) in paragraph at lines 2--4
+\OT1/cmr/m/n/12 https://solvingprocrastination.com/why-people-procrastinate/ ht
+tps://solvingprocrastination.com/procrastination-
+ []
+
+(./Chapters/2 Theoretical Grounding/'finished/productivity.tex
+
+LaTeX Warning: Citation 'Kenton2022Aug' on page 12 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Ryan2000Jan' on page 12 undefined on input line 5.
+LaTeX Warning: Citation 'Kim2019May' on page 12 undefined on input line 19.
 
 
-LaTeX Warning: Citation 'Lawman2013' on page 12 undefined on input line 6.
+LaTeX Warning: Citation 'Kim2019May' on page 12 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'Legault2016Nov' on page 12 undefined on input line 6.
+Underfull \vbox (badness 1824) has occurred while \output is active []
 
-
-LaTeX Warning: Citation 'Ryan2000Jan' on page 12 undefined on input line 17.
-
-[12
+ [12
 
 ]
-
-./Chapters/2 Theoretical Grounding/Motivation.tex:20: LaTeX Error: Unicode char
-acter ￼ (U+FFFC)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ... do whatever they see as being the norm￼
-                                                  ￼. It states that people...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-./Chapters/2 Theoretical Grounding/Motivation.tex:20: LaTeX Error: Unicode char
-acter ￼ (U+FFFC)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ... whatever they see as being the norm￼￼
-                                                  . It states that people ha...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-./Chapters/2 Theoretical Grounding/Motivation.tex:23: You can't use `macro para
-meter character #' in vertical mode.
-l.23 #
-      intrinsic/extrinsic motivation https://www.sciencedirect.com/science/a...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-./Chapters/2 Theoretical Grounding/Motivation.tex:24: You can't use `macro para
-meter character #' in horizontal mode.
-l.24 #
-       Self Determination Theory
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-./Chapters/2 Theoretical Grounding/Motivation.tex:25: Missing $ inserted.
-<inserted text> 
-                $
-l.25 ...erenceworkentry/10.1007/978-1-4419-1005-9_
-                                                  1620
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-)
-./Chapters/2 Theoretical Grounding/main.tex:7: Missing $ inserted.
-<inserted text> 
-                $
-l.7 
-    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (108.47672pt too wide) in paragraph at lines 23--7
-[]\OT1/cmr/m/n/12 intrinsic/extrinsic mo-ti-va-tion https://www.sciencedirect.c
-om/science/article/pii/S0361476X99910202
- []
-
-
-Overfull \hbox (14.44714pt too wide) in paragraph at lines 23--7
-\OT1/cmr/m/n/12 Self De-ter-mi-na-tion The-ory https://link.springer.com/refere
-nceworkentry/10.1007/978-
- []
-
-(./Chapters/2 Theoretical Grounding/Gamification.tex
-
-LaTeX Warning: Citation 'Blohm' on page 13 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Leonard2008Dec' on page 13 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Leonard2008Dec' on page 13 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'Leonard2008Dec' on page 13 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'Ozdamli2021Aug' on page 13 undefined on input line 11.
-
-
-))
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1002,36 +908,163 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13] (/home/simone/Documents/Thesis/out/maintest.aux)
+[13]) (./Chapters/2 Theoretical Grounding/'finished/procrastination.tex
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Citation 'hen2018causes' on page 14 undefined on input line 15.
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                maintest
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: Citation 'lay1986last' on page 14 undefined on input line 15.
 
-Package logreq Info: Writing requests to 'maintest.run.xml'.
-\openout1 = `maintest.run.xml'.
 
- ) 
+LaTeX Warning: Citation 'Piers2007' on page 14 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'Yan2022' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'Steel2007' on page 14 undefined on input line 24.
+
+) (./Chapters/2 Theoretical Grounding/'finished/the matching law.tex
+
+LaTeX Warning: Citation 'Poling2011Apr' on page 14 undefined on input line 10.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+(./Chapters/2 Theoretical Grounding/'finished/Kahnemanns System one and System 
+Two.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+
+LaTeX Warning: Citation 'Kahneman2011' on page 16 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'Steel2007' on page 16 undefined on input line 35.
+
+)
+(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/the 
+procrastination equation.tex
+
+LaTeX Warning: Citation 'Haghbin2015' on page 16 undefined on input line 4.
+
+
+Underfull \vbox (badness 2680) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+
+LaTeX Warning: Citation 'Steel2007' on page 17 undefined on input line 45.
+
+)
+(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/expe
+ctancy.tex
+
+LaTeX Warning: Citation 'Steel2007' on page 17 undefined on input line 6.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+
+LaTeX Warning: Citation 'Flett2012Dec' on page 18 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'Flett2012Dec' on page 18 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'Flett2012Dec' on page 18 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'Sirois2013Feb' on page 18 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'Sirois2013Feb' on page 18 undefined on input line 28.
+
+)
+(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/psyc
+hological_distance.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+
+LaTeX Warning: Citation 'Trope2010Apr' on page 19 undefined on input line 34.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/Valu
+e/value.tex
+
+LaTeX Warning: Citation 'Steel2007' on page 20 undefined on input line 23.
+
+)
+
+! LaTeX Error: File `Chapters/2 Theoretical Grounding/Value/Motivation.tex' not
+ found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+./Chapters/2 Theoretical Grounding/main.tex:46: Emergency stop.
+<read *> 
+         
+l.46 .../2 Theoretical Grounding/Value/Motivation}
+                                                  ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
 Here is how much of TeX's memory you used:
- 15203 strings out of 478287
- 281321 string characters out of 5849289
- 1039053 words of memory out of 5000000
- 33144 multiletter control sequences out of 15000+600000
- 475399 words of font info for 49 fonts, out of 8000000 for 9000
+ 15220 strings out of 478287
+ 284388 string characters out of 5849289
+ 1039217 words of memory out of 5000000
+ 33152 multiletter control sequences out of 15000+600000
+ 472287 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,11n,91p,1132b,1148s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on /home/simone/Documents/Thesis/out/maintest.pdf (14 pages, 725
-74 bytes).
-PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 91i,12n,91p,1132b,1159s stack positions out of 5000i,500n,10000p,200000b,80000s
+./Chapters/2 Theoretical Grounding/main.tex:46:  ==> Fatal error occurred, no o
+utput PDF file produced!

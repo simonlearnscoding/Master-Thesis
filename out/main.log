@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  22 NOV 2022 08:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  11 DEC 2022 19:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -614,20 +614,7 @@ Package: glossary-tree 2021/11/01 v4.49 (NLCT)
 \glo@acronym@file=\write5
 \openout5 = `main.acn'.
 
-Package glossaries Info: Writing glossary file main.acn on input line 19.
-
-
-./main.tex:20: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20  t
-       his only creates a glossary for defined acronyms. for a full glossary...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Package glossaries Info: Writing glossary file main.acn on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -638,24 +625,24 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 Excluding comment 'comment')
 \@quotelevel=\count433
 \@quotereset=\count434
-
-No file main.aux.
+ (/home/simone/Documents/Thesis/out/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count435
@@ -724,30 +711,21 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
+Package biblatex Info: ... file 'main.bbl' found.
 
-No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
-(./titlepage.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(/home/simone/Documents/Thesis/out/main.bbl)
+Package biblatex Info: Reference section=0 on input line 34.
+Package biblatex Info: Reference segment=0 on input line 34.
+ (./titlepage.tex [1
 
 \openout4 = `main.ist'.
 
-] [1])
-(./Front and Back Chapters/Oath.tex) [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./Front and Back Chapter
+s/Oath.tex)
+[2
 
 
-]
-(./Front and Back Chapters/Zusammenfassung.tex) [3
+] (./Front and Back Chapters/Zusammenfassung.tex) [3
 
 
 ]
@@ -755,30 +733,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-No file main.toc.
+(/home/simone/Documents/Thesis/out/main.toc)
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
-[5
+ [5
 
 ]
-No file main.lof.
+(/home/simone/Documents/Thesis/out/main.lof)
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
-[6
+ [6
 
 
 ]
-No file main.lot.
+(/home/simone/Documents/Thesis/out/main.lot)
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
-[7
+ [7
 
 
 ]
-No file main.acr.
+(/home/simone/Documents/Thesis/out/main.acr)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -790,69 +768,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [8
 
 ]
-Chapter 1.
-(./Chapters/1 Introduction.tex
 
-LaTeX Warning: Citation 'BibEntry2020Jun' on page 9 undefined on input line 2.
+LaTeX Warning: Empty bibliography on input line 93.
 
-
-LaTeX Warning: Citation 'BibEntry2022Nov' on page 9 undefined on input line 3.
-
-./Chapters/1 Introduction.tex:7: You can't use `macro parameter character #' in
- vertical mode.
-l.7 #
-     Topic digital natives
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-./Chapters/1 Introduction.tex:14: You can't use `macro parameter character #' i
-n vertical mode.
-l.14 #
-       But this trend can also come with disadvantages, like ->
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
+[9
 
 
-Overfull \hbox (134.16534pt too wide) in paragraph at lines 14--18
-[]\OT1/cmr/m/n/12 But this trend can also come with dis-ad-van-tages, like -> h
-ttps://www.techrepublic.com/article/distractions-
- []
+] (./Front and Back Chapters/Appendix.tex) [10
 
-
-LaTeX Warning: Citation 'Lu2014Dec' on page 9 undefined on input line 20.
-
-) [9
 
 ]
-Chapter 2.
-(./Chapters/Theoretical Grounding/Theoretical Grounding and related work.tex
+(/home/simone/Documents/Thesis/out/main.aux)
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
 
-! LaTeX Error: File `./Motivation.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: 
-./Chapters/Theoretical Grounding/Theoretical Grounding and related work.tex:6: 
-Emergency stop.
-<read *> 
-         
-l.6 \input{./Motivation}
-                        ^^M
-*** (cannot \read from terminal in nonstop modes)
-
- 
+ ) 
 Here is how much of TeX's memory you used:
- 15142 strings out of 478287
- 279242 string characters out of 5849289
- 1033511 words of memory out of 5000000
- 33119 multiletter control sequences out of 15000+600000
- 472287 words of font info for 38 fonts, out of 8000000 for 9000
+ 14962 strings out of 478287
+ 275762 string characters out of 5849289
+ 1031453 words of memory out of 5000000
+ 32929 multiletter control sequences out of 15000+600000
+ 471681 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,11n,91p,1128b,1159s stack positions out of 5000i,500n,10000p,200000b,80000s
-./Chapters/Theoretical Grounding/Theoretical Grounding and related work.tex:6: 
- ==> Fatal error occurred, no output PDF file produced!
+ 91i,11n,91p,1128b,848s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /home/simone/Documents/Thesis/out/main.pdf (10 pages, 48940 b
+ytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -2377,61 +2377,25 @@
     <bcf:citekey order="10">Kendrick1987May</bcf:citekey>
     <bcf:citekey order="11">Csikzentmihalyi1990</bcf:citekey>
     <bcf:citekey order="12">Csikzentmihalyi1990</bcf:citekey>
-    <bcf:citekey order="13">Ryan2000Jan</bcf:citekey>
-    <bcf:citekey order="14">Lawman2013</bcf:citekey>
-    <bcf:citekey order="15">Legault2016Nov</bcf:citekey>
-    <bcf:citekey order="16">Ryan2000Jan</bcf:citekey>
-    <bcf:citekey order="17">Blohm</bcf:citekey>
-    <bcf:citekey order="18">Leonard2008Dec</bcf:citekey>
-    <bcf:citekey order="19">Leonard2008Dec</bcf:citekey>
-    <bcf:citekey order="20">Leonard2008Dec</bcf:citekey>
-    <bcf:citekey order="21">Ozdamli2021Aug</bcf:citekey>
-    <bcf:citekey order="22">BibEntry2020Jun</bcf:citekey>
-    <bcf:citekey order="23">BibEntry2022Nov</bcf:citekey>
-    <bcf:citekey order="24">Marsh2022Mar</bcf:citekey>
-    <bcf:citekey order="25">Joblist2022Nov</bcf:citekey>
-    <bcf:citekey order="26">Lu2014Dec</bcf:citekey>
-    <bcf:citekey order="27">Vithayathil2018Jan</bcf:citekey>
-    <bcf:citekey order="28">PewResearch2022Nov</bcf:citekey>
-    <bcf:citekey order="29">Mark2008Jan</bcf:citekey>
-    <bcf:citekey order="30">McClelland1961</bcf:citekey>
-    <bcf:citekey order="31">Kendrick1987May</bcf:citekey>
-    <bcf:citekey order="32">Csikzentmihalyi1990</bcf:citekey>
-    <bcf:citekey order="33">Ryan2000Jan</bcf:citekey>
-    <bcf:citekey order="34">Lawman2013</bcf:citekey>
-    <bcf:citekey order="35">Legault2016Nov</bcf:citekey>
-    <bcf:citekey order="36">Blohm</bcf:citekey>
-    <bcf:citekey order="37">Leonard2008Dec</bcf:citekey>
-    <bcf:citekey order="38">Ozdamli2021Aug</bcf:citekey>
-  </bcf:section>
-  <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="nty">
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="6">
-      <bcf:sortitem order="1">volume</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sortingtemplate>
-  <!-- DATALISTS -->
-</bcf:controlfile>
+    <bcf:citekey order="13">Piers2007</bcf:citekey>
+    <bcf:citekey order="14">Kenton2022Aug</bcf:citekey>
+    <bcf:citekey order="15">Kim2019May</bcf:citekey>
+    <bcf:citekey order="16">Kim2019May</bcf:citekey>
+    <bcf:citekey order="17">hen2018causes</bcf:citekey>
+    <bcf:citekey order="18">lay1986last</bcf:citekey>
+    <bcf:citekey order="19">Piers2007</bcf:citekey>
+    <bcf:citekey order="20">Yan2022</bcf:citekey>
+    <bcf:citekey order="21">Steel2007</bcf:citekey>
+    <bcf:citekey order="22">Poling2011Apr</bcf:citekey>
+    <bcf:citekey order="23">Kahneman2011</bcf:citekey>
+    <bcf:citekey order="24">Steel2007</bcf:citekey>
+    <bcf:citekey order="25">Haghbin2015</bcf:citekey>
+    <bcf:citekey order="26">Steel2007</bcf:citekey>
+    <bcf:citekey order="27">Steel2007</bcf:citekey>
+    <bcf:citekey order="28">Flett2012Dec</bcf:citekey>
+    <bcf:citekey order="29">Flett2012Dec</bcf:citekey>
+    <bcf:citekey order="30">Flett2012Dec</bcf:citekey>
+    <bcf:citekey order="31">Sirois2013Feb</bcf:citekey>
+    <bcf:citekey order="32">Sirois2013Feb</bcf:citekey>
+    <bcf:citekey order="33">Trope2010Apr</bcf:citekey>
+    <bcf:citekey order="34">Steel2007</bcf:citekey>
