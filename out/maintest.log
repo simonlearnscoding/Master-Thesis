@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  11 DEC 2022 19:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  12 DEC 2022 18:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -632,6 +632,17 @@ If that doesn't work, type  X <return>  to quit.
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
+./maintest.tex:26: Undefined control sequence.
+<recently read> \onehalfspacinsg 
+                                 
+l.26 \onehalfspacinsg
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write6
 
@@ -826,17 +837,16 @@ tivity.[[]]
 
 LaTeX Warning: Citation 'Mark2008Jan' on page 9 undefined on input line 43.
 
+
+LaTeX Warning: Citation 'McClelland1961' on page 9 undefined on input line 51.
+
+
+LaTeX Warning: Citation 'Kendrick1987May' on page 9 undefined on input line 57.
+
+
 [9
 
 ]
-
-LaTeX Warning: Citation 'McClelland1961' on page 10 undefined on input line 51.
-
-
-
-LaTeX Warning: Citation 'Kendrick1987May' on page 10 undefined on input line 57
-.
-
 
 LaTeX Warning: Citation 'Csikzentmihalyi1990' on page 10 undefined on input lin
 e 87.
@@ -854,16 +864,7 @@ Overfull \hbox (61.89096pt too wide) in paragraph at lines 92--99
 
 LaTeX Warning: Citation 'Piers2007' on page 10 undefined on input line 102.
 
-)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10] (./Chapters/1 Introduction/Work-Life-Balance.tex)
+) (./Chapters/1 Introduction/Work-Life-Balance.tex)
 (./Chapters/1 Introduction/Procrastination is a problem now.tex))
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -873,7 +874,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11]
+[10]
 Chapter 2.
 (./Chapters/2 Theoretical Grounding/main.tex
 Overfull \hbox (163.50948pt too wide) in paragraph at lines 2--4
@@ -881,22 +882,19 @@ Overfull \hbox (163.50948pt too wide) in paragraph at lines 2--4
 tps://solvingprocrastination.com/procrastination-
  []
 
-(./Chapters/2 Theoretical Grounding/'finished/productivity.tex
+(./Chapters/2 Theoretical Grounding/productivity.tex
 
-LaTeX Warning: Citation 'Kenton2022Aug' on page 12 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Kim2019May' on page 12 undefined on input line 19.
+LaTeX Warning: Citation 'Kenton2022Aug' on page 11 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Kim2019May' on page 12 undefined on input line 28.
+LaTeX Warning: Citation 'Kim2019May' on page 11 undefined on input line 19.
 
 
-Underfull \vbox (badness 1824) has occurred while \output is active []
+LaTeX Warning: Citation 'Kim2019May' on page 11 undefined on input line 28.
 
- [12
+[11
 
-]
+]) (./Chapters/2 Theoretical Grounding/procrastination.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -908,27 +906,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]) (./Chapters/2 Theoretical Grounding/'finished/procrastination.tex
+[12]
 
-LaTeX Warning: Citation 'hen2018causes' on page 14 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'lay1986last' on page 14 undefined on input line 15.
+LaTeX Warning: Citation 'hen2018causes' on page 13 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Piers2007' on page 14 undefined on input line 16.
+LaTeX Warning: Citation 'lay1986last' on page 13 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Yan2022' on page 14 undefined on input line 22.
+LaTeX Warning: Citation 'Piers2007' on page 13 undefined on input line 16.
 
 
-LaTeX Warning: Citation 'Steel2007' on page 14 undefined on input line 24.
+LaTeX Warning: Citation 'Yan2022' on page 13 undefined on input line 22.
 
-) (./Chapters/2 Theoretical Grounding/'finished/the matching law.tex
 
-LaTeX Warning: Citation 'Poling2011Apr' on page 14 undefined on input line 10.
+LaTeX Warning: Citation 'Steel2007' on page 13 undefined on input line 24.
 
 )
+(./Chapters/2 Theoretical Grounding/the procrastination equation/the procrastin
+ation equation.tex
+
+LaTeX Warning: Citation 'Haghbin2015' on page 13 undefined on input line 4.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
+
+LaTeX Warning: Citation 'Steel2007' on page 14 undefined on input line 45.
+
+)
+(./Chapters/2 Theoretical Grounding/the procrastination equation/expectancy.tex
+
+LaTeX Warning: Citation 'Steel2007' on page 14 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'Flett2012Dec' on page 14 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'Flett2012Dec' on page 14 undefined on input line 12.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -938,8 +960,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
-(./Chapters/2 Theoretical Grounding/'finished/Kahnemanns System one and System 
-Two.tex
+
+LaTeX Warning: Citation 'Flett2012Dec' on page 15 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'Sirois2013Feb' on page 15 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'Sirois2013Feb' on page 15 undefined on input line 28.
+
+)
+(./Chapters/2 Theoretical Grounding/the procrastination equation/psychological_
+distance.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -950,21 +982,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [15]
 
-LaTeX Warning: Citation 'Kahneman2011' on page 16 undefined on input line 32.
+LaTeX Warning: Citation 'Trope2010Apr' on page 16 undefined on input line 34.
 
+) (./Chapters/2 Theoretical Grounding/the procrastination equation/value.tex
 
-LaTeX Warning: Citation 'Steel2007' on page 16 undefined on input line 35.
+LaTeX Warning: Citation 'Steel2007' on page 16 undefined on input line 11.
 
 )
-(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/the 
-procrastination equation.tex
-
-LaTeX Warning: Citation 'Haghbin2015' on page 16 undefined on input line 4.
-
-
-Underfull \vbox (badness 2680) has occurred while \output is active []
-
-
+(./Chapters/2 Theoretical Grounding/biases in decision-making/task_aversiveness
+.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -975,17 +1001,49 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [16]
 
-LaTeX Warning: Citation 'Steel2007' on page 17 undefined on input line 45.
+LaTeX Warning: Citation 'Rotter1954' on page 17 undefined on input line 8.
 
 )
-(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/expe
-ctancy.tex
+(./Chapters/2 Theoretical Grounding/biases in decision-making/the matching law.
+tex
 
-LaTeX Warning: Citation 'Steel2007' on page 17 undefined on input line 6.
+LaTeX Warning: Citation 'Poling2011Apr' on page 17 undefined on input line 18.
+
+)
+(./Chapters/2 Theoretical Grounding/biases in decision-making/hyperbolic_discou
+nting.tex
+
+./Chapters/2 Theoretical Grounding/biases in decision-making/hyperbolic_discoun
+ting.tex:6: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...2 s. The priority-reversed delay values ​
+                                                  ​were nearly consistent ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+./Chapters/2 Theoretical Grounding/biases in decision-making/hyperbolic_discoun
+ting.tex:6: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 .... The priority-reversed delay values ​​
+                                                  were nearly consistent wit...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Citation 'Ainslie1981Dec' on page 17 undefined on input line 8.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -995,25 +1053,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
+[17])
+(./Chapters/2 Theoretical Grounding/biases in decision-making/Kahnemanns System
+ one and System Two.tex
 
-LaTeX Warning: Citation 'Flett2012Dec' on page 18 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'Flett2012Dec' on page 18 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Flett2012Dec' on page 18 undefined on input line 24.
+LaTeX Warning: Citation 'Kahneman2011' on page 18 undefined on input line 32.
 
 
-LaTeX Warning: Citation 'Sirois2013Feb' on page 18 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'Sirois2013Feb' on page 18 undefined on input line 28.
+LaTeX Warning: Citation 'Steel2007' on page 18 undefined on input line 35.
 
 )
-(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/psyc
-hological_distance.tex
+(./Chapters/2 Theoretical Grounding/biases in decision-making/classical conditi
+oning.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1024,9 +1075,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [18]
 
-LaTeX Warning: Citation 'Trope2010Apr' on page 19 undefined on input line 34.
+LaTeX Warning: Citation 'Rehman2022Aug' on page 19 undefined on input line 24.
 
-)
+))
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1035,36 +1086,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19]
-(./Chapters/2 Theoretical Grounding/'finished/the procrastination equation/Valu
-e/value.tex
+[19] (/home/simone/Documents/Thesis/out/maintest.aux)
 
-LaTeX Warning: Citation 'Steel2007' on page 20 undefined on input line 23.
+LaTeX Warning: There were undefined references.
 
-)
 
-! LaTeX Error: File `Chapters/2 Theoretical Grounding/Value/Motivation.tex' not
- found.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                maintest
+(biblatex)                and rerun LaTeX afterwards.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
+Package logreq Info: Writing requests to 'maintest.run.xml'.
+\openout1 = `maintest.run.xml'.
 
-Enter file name: 
-./Chapters/2 Theoretical Grounding/main.tex:46: Emergency stop.
-<read *> 
-         
-l.46 .../2 Theoretical Grounding/Value/Motivation}
-                                                  ^^M
-*** (cannot \read from terminal in nonstop modes)
-
- 
+ ) 
 Here is how much of TeX's memory you used:
- 15220 strings out of 478287
- 284388 string characters out of 5849289
- 1039217 words of memory out of 5000000
- 33152 multiletter control sequences out of 15000+600000
- 472287 words of font info for 38 fonts, out of 8000000 for 9000
+ 15260 strings out of 478287
+ 285710 string characters out of 5849289
+ 1042284 words of memory out of 5000000
+ 33173 multiletter control sequences out of 15000+600000
+ 475399 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,12n,91p,1132b,1159s stack positions out of 5000i,500n,10000p,200000b,80000s
-./Chapters/2 Theoretical Grounding/main.tex:46:  ==> Fatal error occurred, no o
-utput PDF file produced!
+ 91i,12n,91p,1340b,1148s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /home/simone/Documents/Thesis/out/maintest.pdf (20 pages, 881
+79 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

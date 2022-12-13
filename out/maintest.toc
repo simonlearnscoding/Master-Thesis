@@ -1,0 +1,30 @@
+\contentsline {chapter}{Declaration on oath}{2}{}%
+\contentsline {chapter}{Zusammenfassung}{3}{}%
+\contentsline {chapter}{Abstract}{4}{}%
+\contentsline {chapter}{List of Figures}{6}{}%
+\contentsline {chapter}{List of Tables}{7}{}%
+\contentsline {chapter}{List of Abbreviations}{8}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{9}{}%
+\contentsline {chapter}{\numberline {2}Theoretical Grounding}{11}{}%
+\contentsline {section}{\numberline {2.1}Productivity}{11}{}%
+\contentsline {subsubsection}{Personal and Private Productivity}{11}{}%
+\contentsline {subsubsection}{What constructs personal productivity}{11}{}%
+\contentsline {subsubsection}{Productivity as personal freedom}{12}{}%
+\contentsline {section}{\numberline {2.2}Procrastination}{13}{}%
+\contentsline {subsubsection}{Definition of procrastination}{13}{}%
+\contentsline {subsubsection}{Commonality of procrastination}{13}{}%
+\contentsline {section}{\numberline {2.3}The reasons why people procrastinate}{13}{}%
+\contentsline {subsection}{\numberline {2.3.1}Procrastination as a multi-faceted phenomenon}{13}{}%
+\contentsline {subsection}{\numberline {2.3.2}Steels Procrastination equation}{14}{}%
+\contentsline {subsection}{\numberline {2.3.3}Expectancy}{14}{}%
+\contentsline {subsubsection}{Negative thoughts and procrastination}{15}{}%
+\contentsline {subsubsection}{Procrastination as a self fulfilling prophecy}{15}{}%
+\contentsline {subsection}{\numberline {2.3.4}Delay}{15}{}%
+\contentsline {subsection}{\numberline {2.3.5}Value}{16}{}%
+\contentsline {subsubsection}{Value and Task Aversiveness}{16}{}%
+\contentsline {subsubsection}{The Matching law}{17}{}%
+\contentsline {subsection}{\numberline {2.3.6}The Matching Law}{17}{}%
+\contentsline {subsubsection}{Hyperbolic Discounting}{17}{}%
+\contentsline {subsubsection}{System One and Two}{18}{}%
+\contentsline {subsubsection}{Classical Conditioning}{19}{}%
+\contentsline {subsection}{\numberline {2.3.7}Classical conditioning}{19}{}%
