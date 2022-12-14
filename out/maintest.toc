@@ -22,9 +22,13 @@
 \contentsline {subsection}{\numberline {2.3.4}Delay}{15}{}%
 \contentsline {subsection}{\numberline {2.3.5}Value}{16}{}%
 \contentsline {subsubsection}{Value and Task Aversiveness}{16}{}%
+\contentsline {subsubsection}{Impulsivity}{17}{}%
+\contentsline {subsection}{\numberline {2.3.6}Biases in decision-making}{17}{}%
 \contentsline {subsubsection}{The Matching law}{17}{}%
-\contentsline {subsection}{\numberline {2.3.6}The Matching Law}{17}{}%
-\contentsline {subsubsection}{Hyperbolic Discounting}{17}{}%
+\contentsline {subsection}{\numberline {2.3.7}The Matching Law}{17}{}%
+\contentsline {subsubsection}{Hyperbolic Discounting}{18}{}%
 \contentsline {subsubsection}{System One and Two}{18}{}%
 \contentsline {subsubsection}{Classical Conditioning}{19}{}%
-\contentsline {subsection}{\numberline {2.3.7}Classical conditioning}{19}{}%
+\contentsline {subsection}{\numberline {2.3.8}Classical conditioning}{19}{}%
+\contentsline {subsubsection}{Temptation}{20}{}%
+\contentsline {subsubsection}{Hot and cold empathy gap}{20}{}%

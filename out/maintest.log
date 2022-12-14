@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  12 DEC 2022 18:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.2)  13 DEC 2022 19:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -982,7 +982,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [15]
 
-LaTeX Warning: Citation 'Trope2010Apr' on page 16 undefined on input line 34.
+LaTeX Warning: Citation 'Trope2010Apr' on page 16 undefined on input line 35.
 
 ) (./Chapters/2 Theoretical Grounding/the procrastination equation/value.tex
 
@@ -1004,12 +1004,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Citation 'Rotter1954' on page 17 undefined on input line 8.
 
 )
+(./Chapters/2 Theoretical Grounding/the procrastination equation/impulsivity.te
+x
+
+LaTeX Warning: Citation 'APA2022' on page 17 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'Steel2007' on page 17 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'Blatt1967Apr' on page 17 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'Steel2007' on page 17 undefined on input line 26.
+
+)
 (./Chapters/2 Theoretical Grounding/biases in decision-making/the matching law.
 tex
 
 LaTeX Warning: Citation 'Poling2011Apr' on page 17 undefined on input line 18.
 
-)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17])
 (./Chapters/2 Theoretical Grounding/biases in decision-making/hyperbolic_discou
 nting.tex
 
@@ -1043,28 +1066,11 @@ You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-LaTeX Warning: Citation 'Ainslie1981Dec' on page 17 undefined on input line 8.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[17])
-(./Chapters/2 Theoretical Grounding/biases in decision-making/Kahnemanns System
- one and System Two.tex
-
-LaTeX Warning: Citation 'Kahneman2011' on page 18 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Steel2007' on page 18 undefined on input line 35.
+LaTeX Warning: Citation 'Ainslie1981Dec' on page 18 undefined on input line 8.
 
 )
-(./Chapters/2 Theoretical Grounding/biases in decision-making/classical conditi
-oning.tex
+(./Chapters/2 Theoretical Grounding/biases in decision-making/Kahnemanns System
+ one and System Two.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1075,9 +1081,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [18]
 
-LaTeX Warning: Citation 'Rehman2022Aug' on page 19 undefined on input line 24.
+LaTeX Warning: Citation 'Kahneman2011' on page 19 undefined on input line 32.
 
-))
+
+LaTeX Warning: Citation 'Steel2007' on page 19 undefined on input line 35.
+
+)
+(./Chapters/2 Theoretical Grounding/biases in decision-making/classical conditi
+oning.tex
+
+LaTeX Warning: Citation 'Rehman2022Aug' on page 19 undefined on input line 27.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1086,7 +1100,83 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19] (/home/simone/Documents/Thesis/out/maintest.aux)
+[19]) (./Chapters/2 Theoretical Grounding/Nudge/temptation.tex
+
+LaTeX Warning: Citation 'Thaler2008' on page 20 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'Loewenstein1996Mar' on page 20 undefined on input line
+ 20.
+
+
+LaTeX Warning: Citation 'Thaler2008' on page 20 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'Kahneman2011' on page 20 undefined on input line 39.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+./Chapters/2 Theoretical Grounding/Nudge/temptation.tex:51: You can't use `\spa
+cefactor' in math mode.
+\blx@leavevmode ...\else \leavevmode \spacefactor 
+                                                  \blx@sf@par \fi 
+l.51 ... never missed a deadline.\cite{Thaler2008}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Citation 'Thaler2008' on page 21 undefined on input line 51.
+
+./Chapters/2 Theoretical Grounding/Nudge/temptation.tex:51: You can't use `\spa
+cefactor' in math mode.
+\reserved@b ->\spacefactor 
+                           \@m 
+l.51 ... never missed a deadline.\cite{Thaler2008}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+./Chapters/2 Theoretical Grounding/main.tex:56: Missing $ inserted.
+<inserted text> 
+                $
+l.56 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ò in font cmex10!
+Missing character: There is no è in font cmex10!
+
+Overfull \hbox (1069.61295pt too wide) in paragraph at lines 48--56
+\OT1/cmr/m/n/12 ces-sion of $100\OML/cmm/m/it/12 checks; eachdueonthefirstofthe
+followingfewmonths:IfDaviddidnotplaceacopyofafreshchapterofthethesisunderhisdoo
+rbytheendofthesubsequentmonth; Thalerwouldcasheachcheque:Fourmonthslater; David
+finishedhisthesisontimeandnevermissedadeadline:\OT1/cmr/m/n/12 [[]]$ 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21] (/home/simone/Documents/Thesis/out/maintest.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1100,21 +1190,22 @@ Package logreq Info: Writing requests to 'maintest.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15260 strings out of 478287
- 285710 string characters out of 5849289
- 1042284 words of memory out of 5000000
- 33173 multiletter control sequences out of 15000+600000
+ 15273 strings out of 478287
+ 286466 string characters out of 5849289
+ 1041386 words of memory out of 5000000
+ 33179 multiletter control sequences out of 15000+600000
  475399 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,12n,91p,1340b,1148s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 91i,12n,91p,1132b,1163s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /home/simone/Documents/Thesis/out/maintest.pdf (20 pages, 881
-79 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /home/simone/Documents/Thesis/out/maintest.pdf (22 pages, 108
+342 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
